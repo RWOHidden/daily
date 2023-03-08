@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/WNS5AQK3"))()
+local loadedKey = loadstring(game:HttpGet("https://pastebin.com/raw/WNS5AQK3"))()
