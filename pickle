@@ -1,2 +1,2 @@
-local key = loadstring(game:HttpGet("https://pastebin.com/raw/KC3DaSYH"))()
+local key = "irue84fUsjwi35IusiwU8f"
 return key
